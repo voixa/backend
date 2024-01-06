@@ -1,0 +1,11 @@
+# To set custom configs, it is recommended that you
+# make copies of this file in the same directory
+# and set the following field's value with the name
+# of the config file that you want to use.
+# You can also make changes to this file directly if needed.
+CUSTOM_CONFIG_FILE: ""
+GIN_MODE: "debug"
+SERVER_HOST: "localhost"
+SERVER_PORT: 7171
+
+# ARRAY: "elem1,elem2"
